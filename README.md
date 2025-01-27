@@ -17,3 +17,5 @@
 | **Método de ataque (Clonagem)**     | `Site Cloner`                                            |
 | **Obtendo o endereço da máquina**   | `ifconfig`                                               |
 | **URL para clonar**                 | `http://www.facebook.com`                                |
+
+### Resultados
